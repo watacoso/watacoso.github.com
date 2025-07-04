@@ -1,6 +1,7 @@
 ## Data from scratch(1): Building a Barebones Data Ingestion Package
 
 I am still setting up this blog, so I will be writing about some of the things I am learning as I go along.
+
 ---
 
 ### Do we need another data ingestion package?
